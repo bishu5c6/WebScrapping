@@ -1,0 +1,14 @@
+Here we are using the web scrapping tool.
+
+Proxy SErver:
+
+Instead the user and client connecting with original server we will use the proxy server it will interact with the main server
+and serve as the proxy server.
+
+How to use proxy server in your address
+In your search goto proxy settings and click on manual setting
+
+What we are are web scrapping in these project amazon web server 
+
+
+
